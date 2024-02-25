@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+}
+ body{
+background-image: url(OIP.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+ }
+
+ nav{
+    display: flex;
+    /* background-color: rgb(157, 242, 252); */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    justify-content: space-around;
+    align-items: center;
+ }
+ /* .navbar{
+display: flex;
+align-items: center;
+text-align: center;
+justify-content: space-between;
+ } */
+ul li{
+   margin-right: 20px;
+}
+ h2{
+   margin-bottom: 50px;
+   font-size: x-large;
+   font-weight: 800;
+
+ }
+ p{
+   font-weight: 600;
+   font-size: medium;
+   font-size: 24px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-style: normal;
+   color: blanchedalmond;
+   line-height: 34px;
+   
+ }
+
+ .listproject{
+      background: peachpuff;
+   border-radius:1.5rem;
+   padding: 0.5rem 1.5rem 1rem;
+ }
+
+
+ ul{
+   list-style-type: none;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+ }
+ .projects{
+display: flex;
+
+ }
